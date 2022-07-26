@@ -6,7 +6,6 @@
 
 ## 预览地址
 
-[https://rulertool.yaolunmao.top/](https://rulertool.yaolunmao.top/)
 
-代码源于[https://github.com/gorkys/vue-ruler-tool](https://github.com/gorkys/vue-ruler-tool)，只是改写成了vue3版本，怎么上传到npm我还没成功。。。
+代码源于[https://github.com/gorkys/vue-ruler-tool](https://github.com/gorkys/vue-ruler-tool)，只是改写成了vue3版本
 
